@@ -1,0 +1,8 @@
+pattern_builder\editor\Editing.class
+pattern_builder\editor\Editor.class
+pattern_builder\Main.class
+pattern_builder\editor\PrefixDefault.class
+pattern_builder\editor\EditorBuilder.class
+pattern_builder\editor\Suffix.class
+pattern_builder\editor\SuffixDefault.class
+pattern_builder\editor\Prefix.class

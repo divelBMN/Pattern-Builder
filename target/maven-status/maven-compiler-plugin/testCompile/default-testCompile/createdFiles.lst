@@ -1,0 +1,5 @@
+pattern_builder\editor\EditorBuilderTest.class
+pattern_builder\editor\SuffixDefaultTest.class
+pattern_builder\editor\PrefixTest.class
+pattern_builder\editor\PrefixDefaultTest.class
+pattern_builder\editor\SuffixTest.class
